@@ -31,6 +31,7 @@ const config: HardhatUserConfig = {
       }
     ]
   },
+  defaultNetwork: "rinkeby",
   networks: {
     hardhat: {},
     rinkeby: {
